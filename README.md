@@ -1,0 +1,2 @@
+# IWGUI-Integrative_Whisper_Transcriber
+这是一个集成了fasterWhisper-base模型的识别组件，简单快捷但初始化效率低下（Python打包）
