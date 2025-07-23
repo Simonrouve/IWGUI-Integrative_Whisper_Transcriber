@@ -1,6 +1,8 @@
 
 # Project Title
 
+The main file uses Chinese.The language system is still being considered.Thank you.
+
 This is a recognition component integrated with the fasterWhisper-base model, which is simple and fast but has low initialization efficiency (Python packaged)\
 under construction\
 we are considering expanding its functionalities\
@@ -23,6 +25,9 @@ Please adhere AGPLv3.0,Commercial use is strictly prohibited.
 
 [AGPLv3.0](https://www.gnu.org/licenses/agpl-3.0.en.html)
 
+## Construct
+
+You need`nt do it,just set up Python >=3.10 and run the file:whisperGUI.py.All is OK.\
 
 ## Environment Variables
 
