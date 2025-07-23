@@ -21,7 +21,7 @@ Please adhere AGPLv3.0,Commercial use is strictly prohibited.
 
 ## License
 
-[AGPLv3.0](https://choosealicense.com/licenses/mit/)
+[AGPLv3.0](https://www.gnu.org/licenses/agpl-3.0.en.html)
 
 
 ## Environment Variables
